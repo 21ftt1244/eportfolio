@@ -1,0 +1,10 @@
+How to make a shortcut/hotkey to show webpage of file in sublime
+
+follow this
+
+"cmd" : ["browser file path","$file"]
+
+
+//browser file path like chrome, opera, explorer etc
+
+// add another '\' to the slashes near the pink parts
